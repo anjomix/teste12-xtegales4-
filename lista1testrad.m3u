@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="All Xmas" tvg-logo="" group-title="Radios",All Xmas
+#EXTINF:-1 tvg-id="" tvg-name="All Xmas" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",All Xmas
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/434.ts
 #EXTINF:-1 tvg-id="" tvg-name="Alt R&B" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Alt R&B
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/479.ts
@@ -7,85 +7,85 @@ http://149.56.98.189:25461/live/maylonmartinez/mam662145/479.ts
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/481.ts
 #EXTINF:-1 tvg-id="" tvg-name="Alternative 2" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Alternative 2
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/480.ts
-#EXTINF:-1 tvg-id="" tvg-name="Americana" tvg-logo="" group-title="Radios",Americana
+#EXTINF:-1 tvg-id="" tvg-name="Americana" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Americana
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/433.ts
-#EXTINF:-1 tvg-id="" tvg-name="Anos 70" tvg-logo="" group-title="Radios",Anos 70
+#EXTINF:-1 tvg-id="" tvg-name="Anos 70" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Anos 70
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/161.ts
 #EXTINF:-1 tvg-id="" tvg-name="anos 70s-2" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",anos 70s-2
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/461.ts
-#EXTINF:-1 tvg-id="" tvg-name="Anos 80" tvg-logo="" group-title="Radios",Anos 80
+#EXTINF:-1 tvg-id="" tvg-name="Anos 80" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Anos 80
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/160.ts
 #EXTINF:-1 tvg-id="" tvg-name="anos 80s-2" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",anos 80s-2
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/460.ts
 #EXTINF:-1 tvg-id="" tvg-name="anos 80s Rock" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",anos 80s Rock
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/459.ts
-#EXTINF:-1 tvg-id="" tvg-name="Anos 90" tvg-logo="" group-title="Radios",Anos 90
+#EXTINF:-1 tvg-id="" tvg-name="Anos 90" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Anos 90
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/159.ts
 #EXTINF:-1 tvg-id="" tvg-name="anos 90s-2" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",anos 90s-2
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/458.ts
-#EXTINF:-1 tvg-id="" tvg-name="Anos 2000" tvg-logo="" group-title="Radios",Anos 2000
+#EXTINF:-1 tvg-id="" tvg-name="Anos 2000" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Anos 2000
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/158.ts
-#EXTINF:-1 tvg-id="" tvg-name="Axe" tvg-logo="" group-title="Radios",Axe
+#EXTINF:-1 tvg-id="" tvg-name="Axe" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Axe
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/149.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bluegrass" tvg-logo="" group-title="Radios",Bluegrass
+#EXTINF:-1 tvg-id="" tvg-name="Bluegrass" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Bluegrass
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/432.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blues" tvg-logo="" group-title="Radios",Blues
+#EXTINF:-1 tvg-id="" tvg-name="Blues" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Blues
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/431.ts
-#EXTINF:-1 tvg-id="" tvg-name="Boleros e Serenatas" tvg-logo="" group-title="Radios",Boleros e Serenatas
+#EXTINF:-1 tvg-id="" tvg-name="Boleros e Serenatas" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Boleros e Serenatas
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/134.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bossa Nova" tvg-logo="" group-title="Radios",Bossa Nova
+#EXTINF:-1 tvg-id="" tvg-name="Bossa Nova" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Bossa Nova
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/169.ts
 #EXTINF:-1 tvg-id="" tvg-name="Brasileirinho" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Brasileirinho
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/138.ts
-#EXTINF:-1 tvg-id="" tvg-name="Brega" tvg-logo="" group-title="Radios",Brega
+#EXTINF:-1 tvg-id="" tvg-name="Brega" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Brega
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/148.ts
 #EXTINF:-1 tvg-id="" tvg-name="Brits   Hits" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Brits   Hits
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/478.ts
-#EXTINF:-1 tvg-id="" tvg-name="Classical Masterpieces" tvg-logo="" group-title="Radios",Classical Masterpieces
+#EXTINF:-1 tvg-id="" tvg-name="Classical Masterpieces" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Classical Masterpieces
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/430.ts
 #EXTINF:-1 tvg-id="" tvg-name="Classico Alternativo" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Classico Alternativo
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/457.ts
-#EXTINF:-1 tvg-id="" tvg-name="Contemporary Christian" tvg-logo="" group-title="Radios",Contemporary Christian
+#EXTINF:-1 tvg-id="" tvg-name="Contemporary Christian" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Contemporary Christian
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/429.ts
 #EXTINF:-1 tvg-id="" tvg-name="Country" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Country
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/139.ts
 #EXTINF:-1 tvg-id="" tvg-name="Country 2" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Country 2
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/463.ts
-#EXTINF:-1 tvg-id="" tvg-name="Country Classico" tvg-logo="" group-title="Radios",Country Classico
+#EXTINF:-1 tvg-id="" tvg-name="Country Classico" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Country Classico
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/456.ts
-#EXTINF:-1 tvg-id="" tvg-name="Country Hits" tvg-logo="" group-title="Radios",Country Hits
+#EXTINF:-1 tvg-id="" tvg-name="Country Hits" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Country Hits
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/452.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dance" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Dance
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/477.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dance Classico" tvg-logo="" group-title="Radios",Dance Classico
+#EXTINF:-1 tvg-id="" tvg-name="Dance Classico" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Dance Classico
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/455.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dubstep" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Dubstep
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/133.ts
-#EXTINF:-1 tvg-id="" tvg-name="Easy Listening" tvg-logo="" group-title="Radios",Easy Listening
+#EXTINF:-1 tvg-id="" tvg-name="Easy Listening" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Easy Listening
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/428.ts
-#EXTINF:-1 tvg-id="" tvg-name="Eletronica" tvg-logo="" group-title="Radios",Eletronica
+#EXTINF:-1 tvg-id="" tvg-name="Eletronica" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Eletronica
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/154.ts
-#EXTINF:-1 tvg-id="" tvg-name="Emo X Screamo" tvg-logo="" group-title="Radios",Emo X Screamo
+#EXTINF:-1 tvg-id="" tvg-name="Emo X Screamo" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Emo X Screamo
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/451.ts
-#EXTINF:-1 tvg-id="" tvg-name="Festa" tvg-logo="" group-title="Radios",Festa
+#EXTINF:-1 tvg-id="" tvg-name="Festa" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Festa
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/153.ts
-#EXTINF:-1 tvg-id="" tvg-name="Festa 2" tvg-logo="" group-title="Radios",Festa 2
+#EXTINF:-1 tvg-id="" tvg-name="Festa 2" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Festa 2
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/423.ts
-#EXTINF:-1 tvg-id="" tvg-name="Filipino" tvg-logo="" group-title="Radios",Filipino
+#EXTINF:-1 tvg-id="" tvg-name="Filipino" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Filipino
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/413.ts
-#EXTINF:-1 tvg-id="" tvg-name="Folk" tvg-logo="" group-title="Radios",Folk
+#EXTINF:-1 tvg-id="" tvg-name="Folk" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Folk
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/427.ts
-#EXTINF:-1 tvg-id="" tvg-name="Forro" tvg-logo="" group-title="Radios",Forro
+#EXTINF:-1 tvg-id="" tvg-name="Forro" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Forro
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/168.ts
-#EXTINF:-1 tvg-id="" tvg-name="Funk" tvg-logo="" group-title="Radios",Funk
+#EXTINF:-1 tvg-id="" tvg-name="Funk" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Funk
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/165.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gospel" tvg-logo="" group-title="Radios",Gospel
+#EXTINF:-1 tvg-id="" tvg-name="Gospel" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Gospel
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/152.ts
-#EXTINF:-1 tvg-id="" tvg-name="Gospel Internacional" tvg-logo="" group-title="Radios",Gospel Internacional
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Internacional" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Gospel Internacional
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/426.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hip Hop" tvg-logo="" group-title="Radios",Hip Hop
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hop" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Hip Hop
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/151.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hip-Hop Classicos" tvg-logo="" group-title="Radios",Hip-Hop Classicos
+#EXTINF:-1 tvg-id="" tvg-name="Hip-Hop Classicos" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Hip-Hop Classicos
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/450.ts
 #EXTINF:-1 tvg-id="" tvg-name="Hip-Hop e R&B" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Hip-Hop e R&B
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/476.ts
@@ -93,63 +93,63 @@ http://149.56.98.189:25461/live/maylonmartinez/mam662145/476.ts
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/475.ts
 #EXTINF:-1 tvg-id="" tvg-name="Indie" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Indie
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/474.ts
-#EXTINF:-1 tvg-id="" tvg-name="Infantil" tvg-logo="" group-title="Radios",Infantil
+#EXTINF:-1 tvg-id="" tvg-name="Infantil" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Infantil
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/171.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jazz" tvg-logo="" group-title="Radios",Jazz
+#EXTINF:-1 tvg-id="" tvg-name="Jazz" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Jazz
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/150.ts
-#EXTINF:-1 tvg-id="" tvg-name="Jazz Latino" tvg-logo="" group-title="Radios",Jazz Latino
+#EXTINF:-1 tvg-id="" tvg-name="Jazz Latino" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Jazz Latino
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/442.ts
-#EXTINF:-1 tvg-id="" tvg-name="K-Pop" tvg-logo="" group-title="Radios",K-Pop
+#EXTINF:-1 tvg-id="" tvg-name="K-Pop" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",K-Pop
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/412.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kid 2" tvg-logo="" group-title="Radios",Kid 2
+#EXTINF:-1 tvg-id="" tvg-name="Kid 2" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Kid 2
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/416.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kids Movie Soundtracks" tvg-logo="" group-title="Radios",Kids Movie Soundtracks
+#EXTINF:-1 tvg-id="" tvg-name="Kids Movie Soundtracks" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Kids Movie Soundtracks
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/417.ts
-#EXTINF:-1 tvg-id="" tvg-name="Light Classical" tvg-logo="" group-title="Radios",Light Classical
+#EXTINF:-1 tvg-id="" tvg-name="Light Classical" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Light Classical
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/425.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lounge" tvg-logo="" group-title="Radios",Lounge
+#EXTINF:-1 tvg-id="" tvg-name="Lounge" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Lounge
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/163.ts
 #EXTINF:-1 tvg-id="" tvg-name="Love Songs" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Love Songs
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/473.ts
-#EXTINF:-1 tvg-id="" tvg-name="MegaMix" tvg-logo="" group-title="Radios",MegaMix
+#EXTINF:-1 tvg-id="" tvg-name="MegaMix" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",MegaMix
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/135.ts
-#EXTINF:-1 tvg-id="" tvg-name="Metal" tvg-logo="" group-title="Radios",Metal
+#EXTINF:-1 tvg-id="" tvg-name="Metal" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Metal
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/141.ts
-#EXTINF:-1 tvg-id="" tvg-name="Metal Classico" tvg-logo="" group-title="Radios",Metal Classico
+#EXTINF:-1 tvg-id="" tvg-name="Metal Classico" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Metal Classico
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/454.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mexicana" tvg-logo="" group-title="Radios",Mexicana
+#EXTINF:-1 tvg-id="" tvg-name="Mexicana" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Mexicana
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/441.ts
-#EXTINF:-1 tvg-id="" tvg-name="MPB" tvg-logo="" group-title="Radios",MPB
+#EXTINF:-1 tvg-id="" tvg-name="MPB" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",MPB
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/170.ts
 #EXTINF:-1 tvg-id="" tvg-name="Music Choice Max" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Music Choice Max
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/472.ts
-#EXTINF:-1 tvg-id="" tvg-name="Musica Clássica" tvg-logo="" group-title="Radios",Musica Clássica
+#EXTINF:-1 tvg-id="" tvg-name="Musica Clássica" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Musica Clássica
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/147.ts
-#EXTINF:-1 tvg-id="" tvg-name="Musica Urbana" tvg-logo="" group-title="Radios",Musica Urbana
+#EXTINF:-1 tvg-id="" tvg-name="Musica Urbana" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Musica Urbana
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/440.ts
 #EXTINF:-1 tvg-id="" tvg-name="New Age" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",New Age
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/136.ts
-#EXTINF:-1 tvg-id="" tvg-name="New Rock" tvg-logo="" group-title="Radios",New Rock
+#EXTINF:-1 tvg-id="" tvg-name="New Rock" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",New Rock
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/146.ts
-#EXTINF:-1 tvg-id="" tvg-name="New Wave" tvg-logo="" group-title="Radios",New Wave
+#EXTINF:-1 tvg-id="" tvg-name="New Wave" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",New Wave
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/449.ts
-#EXTINF:-1 tvg-id="" tvg-name="Opera" tvg-logo="" group-title="Radios",Opera
+#EXTINF:-1 tvg-id="" tvg-name="Opera" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Opera
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/424.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pagode" tvg-logo="" group-title="Radios",Pagode
+#EXTINF:-1 tvg-id="" tvg-name="Pagode" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Pagode
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/167.ts
 #EXTINF:-1 tvg-id="" tvg-name="Pop & Country" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Pop & Country
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/471.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="" group-title="Radios",Pop Hits
+#EXTINF:-1 tvg-id="" tvg-name="Pop Hits" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Pop Hits
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/142.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pop Latino" tvg-logo="" group-title="Radios",Pop Latino
+#EXTINF:-1 tvg-id="" tvg-name="Pop Latino" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Pop Latino
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/439.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pop Nacional 2" tvg-logo="" group-title="Radios",Pop Nacional 2
+#EXTINF:-1 tvg-id="" tvg-name="Pop Nacional 2" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Pop Nacional 2
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/414.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pop Rock" tvg-logo="" group-title="Radios",Pop Rock
+#EXTINF:-1 tvg-id="" tvg-name="Pop Rock" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Pop Rock
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/162.ts
-#EXTINF:-1 tvg-id="" tvg-name="Punk" tvg-logo="" group-title="Radios",Punk
+#EXTINF:-1 tvg-id="" tvg-name="Punk" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Punk
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/448.ts
-#EXTINF:-1 tvg-id="" tvg-name="R&B Classicos" tvg-logo="" group-title="Radios",R&B Classicos
+#EXTINF:-1 tvg-id="" tvg-name="R&B Classicos" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",R&B Classicos
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/447.ts
 #EXTINF:-1 tvg-id="" tvg-name="R&B Soul" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",R&B Soul
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/470.ts
@@ -157,61 +157,61 @@ http://149.56.98.189:25461/live/maylonmartinez/mam662145/470.ts
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/469.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rap 3" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Rap 3
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/468.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rap Nacional" tvg-logo="" group-title="Radios",Rap Nacional
+#EXTINF:-1 tvg-id="" tvg-name="Rap Nacional" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Rap Nacional
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/156.ts
-#EXTINF:-1 tvg-id="" tvg-name="Reggae" tvg-logo="" group-title="Radios",Reggae
+#EXTINF:-1 tvg-id="" tvg-name="Reggae" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Reggae
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/145.ts
 #EXTINF:-1 tvg-id="" tvg-name="Reggae 2" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Reggae 2
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/467.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rock Brasil" tvg-logo="" group-title="Radios",Rock Brasil
+#EXTINF:-1 tvg-id="" tvg-name="Rock Brasil" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Rock Brasil
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/155.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rock Classic" tvg-logo="" group-title="Radios",Rock Classic
+#EXTINF:-1 tvg-id="" tvg-name="Rock Classic" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Rock Classic
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/453.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rock Classico" tvg-logo="" group-title="Radios",Rock Classico
+#EXTINF:-1 tvg-id="" tvg-name="Rock Classico" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Rock Classico
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/164.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rock Hits" tvg-logo="" group-title="Radios",Rock Hits
+#EXTINF:-1 tvg-id="" tvg-name="Rock Hits" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Rock Hits
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/446.ts
 #EXTINF:-1 tvg-id="" tvg-name="Rock Internacional" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Rock Internacional
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/466.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rock Latino" tvg-logo="" group-title="Radios",Rock Latino
+#EXTINF:-1 tvg-id="" tvg-name="Rock Latino" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Rock Latino
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/438.ts
-#EXTINF:-1 tvg-id="" tvg-name="Romances" tvg-logo="" group-title="Radios",Romances
+#EXTINF:-1 tvg-id="" tvg-name="Romances" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Romances
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/437.ts
-#EXTINF:-1 tvg-id="" tvg-name="Romanticas" tvg-logo="" group-title="Radios",Romanticas
+#EXTINF:-1 tvg-id="" tvg-name="Romanticas" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Romanticas
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/157.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sertanejo" tvg-logo="" group-title="Radios",Sertanejo
+#EXTINF:-1 tvg-id="" tvg-name="Sertanejo" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Sertanejo
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/166.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sertanejo Raiz" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Sertanejo Raiz
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/137.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sertanejo Universitario" tvg-logo="" group-title="Radios",Sertanejo Universitario
+#EXTINF:-1 tvg-id="" tvg-name="Sertanejo Universitario" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Sertanejo Universitario
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/144.ts
-#EXTINF:-1 tvg-id="" tvg-name="Singers & Swing" tvg-logo="" group-title="Radios",Singers & Swing
+#EXTINF:-1 tvg-id="" tvg-name="Singers & Swing" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Singers & Swing
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/422.ts
-#EXTINF:-1 tvg-id="" tvg-name="Smooth Jazz" tvg-logo="" group-title="Radios",Smooth Jazz
+#EXTINF:-1 tvg-id="" tvg-name="Smooth Jazz" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Smooth Jazz
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/421.ts
 #EXTINF:-1 tvg-id="" tvg-name="Soft Rock" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Soft Rock
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/465.ts
-#EXTINF:-1 tvg-id="" tvg-name="Solid Gold Oldies" tvg-logo="" group-title="Radios",Solid Gold Oldies
+#EXTINF:-1 tvg-id="" tvg-name="Solid Gold Oldies" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Solid Gold Oldies
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/445.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sounds of The Seasons" tvg-logo="" group-title="Radios",Sounds of The Seasons
+#EXTINF:-1 tvg-id="" tvg-name="Sounds of The Seasons" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Sounds of The Seasons
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/420.ts
-#EXTINF:-1 tvg-id="" tvg-name="Soundscapes" tvg-logo="" group-title="Radios",Soundscapes
+#EXTINF:-1 tvg-id="" tvg-name="Soundscapes" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Soundscapes
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/419.ts
-#EXTINF:-1 tvg-id="" tvg-name="Stage & Screen" tvg-logo="" group-title="Radios",Stage & Screen
+#EXTINF:-1 tvg-id="" tvg-name="Stage & Screen" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Stage & Screen
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/418.ts
 #EXTINF:-1 tvg-id="" tvg-name="Teen Beats" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Teen Beats
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/464.ts
-#EXTINF:-1 tvg-id="" tvg-name="Teen Ritmos" tvg-logo="" group-title="Radios",Teen Ritmos
+#EXTINF:-1 tvg-id="" tvg-name="Teen Ritmos" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Teen Ritmos
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/436.ts
-#EXTINF:-1 tvg-id="" tvg-name="Throwback Jamz" tvg-logo="" group-title="Radios",Throwback Jamz
+#EXTINF:-1 tvg-id="" tvg-name="Throwback Jamz" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Throwback Jamz
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/444.ts
-#EXTINF:-1 tvg-id="" tvg-name="Toddler Tunes" tvg-logo="" group-title="Radios",Toddler Tunes
+#EXTINF:-1 tvg-id="" tvg-name="Toddler Tunes" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Toddler Tunes
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/415.ts
 #EXTINF:-1 tvg-id="" tvg-name="Trilhas Sonoras" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Trilhas Sonoras
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/140.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tropicales" tvg-logo="" group-title="Radios",Tropicales
+#EXTINF:-1 tvg-id="" tvg-name="Tropicales" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Tropicales
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/435.ts
 #EXTINF:-1 tvg-id="" tvg-name="Underground Hip-Hop" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Underground Hip-Hop
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/462.ts
-#EXTINF:-1 tvg-id="" tvg-name="Y2K" tvg-logo="" group-title="Radios",Y2K
+#EXTINF:-1 tvg-id="" tvg-name="Y2K" tvg-logo="http://i.imgur.com/R0LcKyj.png" group-title="Radios",Y2K
 http://149.56.98.189:25461/live/maylonmartinez/mam662145/443.ts
