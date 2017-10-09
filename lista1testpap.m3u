@@ -1,542 +1,433 @@
 #EXTM3U
-#EXTINF:-1,US: Famly HD
-http://ipsatpro.com:8000/live/TEO/test/1161.ts
-#EXTINF:-1,US: Sport Pag TV
-http://ipsatpro.com:8000/live/TEO/test/1442.ts
-#EXTINF:-1,US: Sport Network
-http://ipsatpro.com:8000/live/TEO/test/1172.ts
-#EXTINF:-1,US: Sports Footbal HD
-http://ipsatpro.com:8000/live/TEO/test/1431.ts
-#EXTINF:-1,US: World Fashion TV
-http://ipsatpro.com:8000/live/TEO/test/1432.ts
-#EXTINF:-1,US: Sports NFL Now HD
-http://ipsatpro.com:8000/live/TEO/test/1434.ts
-#EXTINF:-1,US: HBO 1
-http://ipsatpro.com:8000/live/TEO/test/1433.ts
-#EXTINF:-1,US: Sports MLS Soccer
-http://ipsatpro.com:8000/live/TEO/test/1151.ts
-#EXTINF:-1,US: Sports Tonight
-http://ipsatpro.com:8000/live/TEO/test/1158.ts
-#EXTINF:-1,US: Fox Sports West HD
-http://ipsatpro.com:8000/live/TEO/test/1436.ts
-#EXTINF:-1,US: FOX 1
-http://ipsatpro.com:8000/live/TEO/test/1435.ts
-#EXTINF:-1,US: Sport LTVE HD
-http://ipsatpro.com:8000/live/TEO/test/1153.ts
-#EXTINF:-1,US: Starz Edge
-http://ipsatpro.com:8000/live/TEO/test/1451.ts
-#EXTINF:-1,US: C-Span 1 HD
-http://ipsatpro.com:8000/live/TEO/test/1148.ts
-#EXTINF:-1,US: C-Span 2 HD
-http://ipsatpro.com:8000/live/TEO/test/1160.ts
-#EXTINF:-1,US: C-Span 3 HD
-http://ipsatpro.com:8000/live/TEO/test/1162.ts
-#EXTINF:-1,US: Sport TSN 1
-http://ipsatpro.com:8000/live/TEO/test/1177.ts
-#EXTINF:-1,US: Sport TSN 2
-http://ipsatpro.com:8000/live/TEO/test/1438.ts
-#EXTINF:-1,US: Sport TSN 3
-http://ipsatpro.com:8000/live/TEO/test/1169.ts
-#EXTINF:-1,US: Sport TSN 4
-http://ipsatpro.com:8000/live/TEO/test/1175.ts
-#EXTINF:-1,US: Sport TSN 5
-http://ipsatpro.com:8000/live/TEO/test/1176.ts
-#EXTINF:-1,US: Fox Sports Florida HD
-http://ipsatpro.com:8000/live/TEO/test/1441.ts
-#EXTINF:-1,US: NHL Network HD
-http://ipsatpro.com:8000/live/TEO/test/1429.ts
-#EXTINF:-1,US: Sport Snet Central
-http://ipsatpro.com:8000/live/TEO/test/1430.ts
-#EXTINF:-1,US: Espn Sport
-http://ipsatpro.com:8000/live/TEO/test/1164.ts
-#EXTINF:-1,US: AFN Movies HD
-http://ipsatpro.com:8000/live/TEO/test/1146.ts
-#EXTINF:-1,US: Thai CH8
-http://ipsatpro.com:8000/live/TEO/test/1168.ts
-#EXTINF:-1,US: AMC
-http://ipsatpro.com:8000/live/TEO/test/1157.ts
-#EXTINF:-1,US: Fox Movies
-http://ipsatpro.com:8000/live/TEO/test/1447.ts
-#EXTINF:-1,US: Fox Action
-http://ipsatpro.com:8000/live/TEO/test/1448.ts
-#EXTINF:-1,US: Amazing Music
-http://ipsatpro.com:8000/live/TEO/test/1446.ts
-#EXTINF:-1,US: TBS Channle
-http://ipsatpro.com:8000/live/TEO/test/1449.ts
-#EXTINF:-1,US: Starz East
-http://ipsatpro.com:8000/live/TEO/test/1450.ts
-#EXTINF:-1,US: NFL Live HD
-http://ipsatpro.com:8000/live/TEO/test/1178.ts
-#EXTINF:-1,US: ShowTime HD
-http://ipsatpro.com:8000/live/TEO/test/1439.ts
-#EXTINF:-1,US: A&E Network
-http://ipsatpro.com:8000/live/TEO/test/1173.ts
-#EXTINF:-1,US: BeIN Sports US
-http://ipsatpro.com:8000/live/TEO/test/1166.ts
-#EXTINF:-1,US: SYFY HD
-http://ipsatpro.com:8000/live/TEO/test/1154.ts
-#EXTINF:-1,US: Bravo
-http://ipsatpro.com:8000/live/TEO/test/1165.ts
-#EXTINF:-1,US: Fox Clasic
-http://ipsatpro.com:8000/live/TEO/test/1443.ts
-#EXTINF:-1,US: Disccovery HD
-http://ipsatpro.com:8000/live/TEO/test/1150.ts
-#EXTINF:-1,US: FX HD
-http://ipsatpro.com:8000/live/TEO/test/1149.ts
-#EXTINF:-1,US: TMN 1 Moves
-http://ipsatpro.com:8000/live/TEO/test/1152.ts
-#EXTINF:-1,US: AMG Entertainment
-http://ipsatpro.com:8000/live/TEO/test/1437.ts
-#EXTINF:-1,US: Daystart
-http://ipsatpro.com:8000/live/TEO/test/1145.ts
-#EXTINF:-1,US: Hallmark HD
-http://ipsatpro.com:8000/live/TEO/test/1159.ts
-#EXTINF:-1,US: HSN
-http://ipsatpro.com:8000/live/TEO/test/1170.ts
-#EXTINF:-1,US: Cinemax
-http://ipsatpro.com:8000/live/TEO/test/1163.ts
-#EXTINF:-1,US: TNT
-http://ipsatpro.com:8000/live/TEO/test/1156.ts
-#EXTINF:-1,US: NBA TV
-http://ipsatpro.com:8000/live/TEO/test/1174.ts
-#EXTINF:-1,US: ABC NEWS HD
-http://ipsatpro.com:8000/live/TEO/test/1179.ts
-#EXTINF:-1,US: Poker Central
-http://ipsatpro.com:8000/live/TEO/test/1155.ts
-#EXTINF:-1,US: California TV
-http://ipsatpro.com:8000/live/TEO/test/1171.ts
-#EXTINF:-1,US: Bloomberg
-http://ipsatpro.com:8000/live/TEO/test/1180.ts
-#EXTINF:-1,US: Amazing Discoveries
-http://ipsatpro.com:8000/live/TEO/test/1181.ts
-#EXTINF:-1,US: City Vancouver
-http://ipsatpro.com:8000/live/TEO/test/1147.ts
-#EXTINF:-1,US: Voice Clips Usa 1
-http://ipsatpro.com:8000/movie/TEO/test/2034.mp4
-#EXTINF:-1,US: Voice Clips Usa 2
-http://ipsatpro.com:8000/movie/TEO/test/2035.mp4
-#EXTINF:-1,US: Voice Clips Usa 3
-http://ipsatpro.com:8000/movie/TEO/test/2036.mp4
-#EXTINF:-1,US: Voice Clips Usa 4
-http://ipsatpro.com:8000/movie/TEO/test/2037.mp4
-#EXTINF:-1,US: Voice Clips Usa 5
-http://ipsatpro.com:8000/movie/TEO/test/2038.mp4
-#EXTINF:-1,US: Voice Clips Usa 6
-http://ipsatpro.com:8000/movie/TEO/test/2039.mp4
-#EXTINF:-1,US: Voice Clips Usa 7
-http://ipsatpro.com:8000/movie/TEO/test/2040.mp4
-#EXTINF:-1,US: Voice Clips Usa 8
-http://ipsatpro.com:8000/movie/TEO/test/2041.mp4
-#EXTINF:-1,US: Voice Clips Usa 9
-http://ipsatpro.com:8000/movie/TEO/test/2042.mp4
-#EXTINF:-1,US: Voice Clips Usa 10
-http://ipsatpro.com:8000/movie/TEO/test/2043.mp4
-#EXTINF:-1,US: Voice Clips Usa 11
-http://ipsatpro.com:8000/movie/TEO/test/2044.mp4
-#EXTINF:-1,US: Voice Clips Usa 12
-#EXTINF:-1,-------- Swedish ---------
-http://ipsatpro.com:8000/live/TEO/test/1134.ts
-#EXTINF:-1,SE: C More Series
-http://ipsatpro.com:8000/live/TEO/test/1111.ts
-#EXTINF:-1,SE: C More Star
-http://ipsatpro.com:8000/live/TEO/test/1136.ts
-#EXTINF:-1,SE: C More Hits
-http://ipsatpro.com:8000/live/TEO/test/1107.ts
-#EXTINF:-1,SE: C More First
-http://ipsatpro.com:8000/live/TEO/test/1108.ts
-#EXTINF:-1,SE: C More Hockey
-http://ipsatpro.com:8000/live/TEO/test/1091.ts
-#EXTINF:-1,SE: C More Golf
-http://ipsatpro.com:8000/live/TEO/test/1116.ts
-#EXTINF:-1,SE: C More Sport
-http://ipsatpro.com:8000/live/TEO/test/1093.ts
-#EXTINF:-1,SE: C More Fotboll
-http://ipsatpro.com:8000/live/TEO/test/1090.ts
-#EXTINF:-1,SE: C More Live
-http://ipsatpro.com:8000/live/TEO/test/1106.ts
-#EXTINF:-1,SE: TV 2 Sport
-http://ipsatpro.com:8000/live/TEO/test/1142.ts
-#EXTINF:-1,SE: TV2 Sport Premium 1
-http://ipsatpro.com:8000/live/TEO/test/1138.ts
-#EXTINF:-1,SE: TV2 Sport Premium 2
-http://ipsatpro.com:8000/live/TEO/test/1139.ts
-#EXTINF:-1,SE: TV2 Sport Premium 3
-http://ipsatpro.com:8000/live/TEO/test/1140.ts
-#EXTINF:-1,SE: TV2 Sport Premium 4
-http://ipsatpro.com:8000/live/TEO/test/1141.ts
-#EXTINF:-1,SE: Viasat Sport
-http://ipsatpro.com:8000/live/TEO/test/1126.ts
-#EXTINF:-1,SE: Viasat Sport Premium
-http://ipsatpro.com:8000/live/TEO/test/1117.ts
-#EXTINF:-1,SE: Viasat Fotboll
-http://ipsatpro.com:8000/live/TEO/test/1124.ts
-#EXTINF:-1,SE: Viasat Motor
-http://ipsatpro.com:8000/live/TEO/test/1129.ts
-#EXTINF:-1,SE: Viasat Hockey
-http://ipsatpro.com:8000/live/TEO/test/1128.ts
-#EXTINF:-1,SE: Viasat History
-http://ipsatpro.com:8000/live/TEO/test/1102.ts
-#EXTINF:-1,SE: Viasat Golf
-http://ipsatpro.com:8000/live/TEO/test/1132.ts
-#EXTINF:-1,SE: Viasat Action
-http://ipsatpro.com:8000/live/TEO/test/1092.ts
-#EXTINF:-1,SE: Viasat Film Premire
-http://ipsatpro.com:8000/live/TEO/test/1121.ts
-#EXTINF:-1,SE: Viasat Film Hits
-http://ipsatpro.com:8000/live/TEO/test/1094.ts
-#EXTINF:-1,SE: Viasat Family
-http://ipsatpro.com:8000/live/TEO/test/1125.ts
-#EXTINF:-1,SE: Viasat Series
-http://ipsatpro.com:8000/live/TEO/test/1123.ts
-#EXTINF:-1,SE: Viasat Comady
-http://ipsatpro.com:8000/live/TEO/test/1122.ts
-#EXTINF:-1,SE: Viasat Crime
-http://ipsatpro.com:8000/live/TEO/test/1133.ts
-#EXTINF:-1,SE: Viasat Nickoldian
-http://ipsatpro.com:8000/live/TEO/test/1127.ts
-#EXTINF:-1,SE: Viasat Cartoonnet
-http://ipsatpro.com:8000/live/TEO/test/1101.ts
-#EXTINF:-1,SE: Viasat E!
-http://ipsatpro.com:8000/live/TEO/test/1131.ts
-#EXTINF:-1,SE: Viasat 4
-http://ipsatpro.com:8000/live/TEO/test/1137.ts
-#EXTINF:-1,SE: Kunskapskanalen
-http://ipsatpro.com:8000/live/TEO/test/1104.ts
-#EXTINF:-1,SE: SF-Kanalen
-http://ipsatpro.com:8000/live/TEO/test/1073.ts
-#EXTINF:-1,SE: SVT24/B
-http://ipsatpro.com:8000/live/TEO/test/1113.ts
-#EXTINF:-1,SE: Svt 1
-http://ipsatpro.com:8000/live/TEO/test/1118.ts
-#EXTINF:-1,SE: Svt 2
-http://ipsatpro.com:8000/live/TEO/test/1114.ts
-#EXTINF:-1,SE: TV 2 Zebra
-http://ipsatpro.com:8000/live/TEO/test/1081.ts
-#EXTINF:-1,SE: TV 3 Sweden
-http://ipsatpro.com:8000/live/TEO/test/1074.ts
-#EXTINF:-1,SE: TV3 Puls
-http://ipsatpro.com:8000/live/TEO/test/1144.ts
-#EXTINF:-1,SE: TV3 Danmark
-http://ipsatpro.com:8000/live/TEO/test/1143.ts
-#EXTINF:-1,SE: TV 4 Sweden
-http://ipsatpro.com:8000/live/TEO/test/1096.ts
-#EXTINF:-1,SE: TV 4 Sport
-http://ipsatpro.com:8000/live/TEO/test/1115.ts
-#EXTINF:-1,SE: TV 4 Film
-http://ipsatpro.com:8000/live/TEO/test/1112.ts
-#EXTINF:-1,SE: TV 4 Komedi
-http://ipsatpro.com:8000/live/TEO/test/1089.ts
-#EXTINF:-1,SE: TV 4 Gold
-http://ipsatpro.com:8000/live/TEO/test/1097.ts
-#EXTINF:-1,SE: TV 4 Fakta
-http://ipsatpro.com:8000/live/TEO/test/1086.ts
-#EXTINF:-1,SE: TV 4 Fakta XL
-http://ipsatpro.com:8000/live/TEO/test/1110.ts
-#EXTINF:-1,SE: Kanal 5
-http://ipsatpro.com:8000/live/TEO/test/1100.ts
-#EXTINF:-1,SE: TV 6
-http://ipsatpro.com:8000/live/TEO/test/1130.ts
-#EXTINF:-1,SE: Sjuan
-http://ipsatpro.com:8000/live/TEO/test/1103.ts
-#EXTINF:-1,SE: TV 8
-http://ipsatpro.com:8000/live/TEO/test/1098.ts
-#EXTINF:-1,SE: Kanal 9
-http://ipsatpro.com:8000/live/TEO/test/1119.ts
-#EXTINF:-1,SE: TV 10
-http://ipsatpro.com:8000/live/TEO/test/1087.ts
-#EXTINF:-1,SE: Kanal 11
-http://ipsatpro.com:8000/live/TEO/test/1099.ts
-#EXTINF:-1,SE: TV 12
-http://ipsatpro.com:8000/live/TEO/test/1095.ts
-#EXTINF:-1,SE: Disney
-http://ipsatpro.com:8000/live/TEO/test/1088.ts
-#EXTINF:-1,SE: Disney xd
-http://ipsatpro.com:8000/live/TEO/test/1109.ts
-#EXTINF:-1,SE: Boomerang
-http://ipsatpro.com:8000/live/TEO/test/1085.ts
-#EXTINF:-1,SE: Discovery
-http://ipsatpro.com:8000/live/TEO/test/1083.ts
-#EXTINF:-1,SE: Discovery Investigation
-http://ipsatpro.com:8000/live/TEO/test/1105.ts
-#EXTINF:-1,SE: National Geographic
-http://ipsatpro.com:8000/live/TEO/test/1079.ts
-#EXTINF:-1,SE: TCM Se
-http://ipsatpro.com:8000/live/TEO/test/1080.ts
-#EXTINF:-1,SE: MTV Se
-http://ipsatpro.com:8000/live/TEO/test/1120.ts
-#EXTINF:-1,SE: Fox Se
-http://ipsatpro.com:8000/live/TEO/test/1078.ts
-#EXTINF:-1,SE: TNT Se
-http://ipsatpro.com:8000/live/TEO/test/1075.ts
-#EXTINF:-1,SE: Comedy Central
-http://ipsatpro.com:8000/live/TEO/test/1082.ts
-#EXTINF:-1,SE: TLC Sverige
-http://ipsatpro.com:8000/live/TEO/test/1084.ts
-#EXTINF:-1,SE: TV3 Sport 1
-http://ipsatpro.com:8000/live/TEO/test/1077.ts
-#EXTINF:-1,SE: TV3 Sport 2
-http://ipsatpro.com:8000/live/TEO/test/1076.ts
-#EXTINF:-1,------ Portugal --------
-http://ipsatpro.com:8000/live/TEO/test/937.ts
-#EXTINF:-1,PT: Spor tv 1
-http://ipsatpro.com:8000/live/TEO/test/880.ts
-#EXTINF:-1,PT: SporTV 2
-http://ipsatpro.com:8000/live/TEO/test/881.ts
-#EXTINF:-1,PT: SporTV 3
-http://ipsatpro.com:8000/live/TEO/test/882.ts
-#EXTINF:-1,PT: SporTV 4
-http://ipsatpro.com:8000/live/TEO/test/883.ts
-#EXTINF:-1,PT: SporTV 5
-http://ipsatpro.com:8000/live/TEO/test/884.ts
-#EXTINF:-1,PT: Sporting TV HD
-http://ipsatpro.com:8000/live/TEO/test/885.ts
-#EXTINF:-1,PT: Benfica TV 2
-http://ipsatpro.com:8000/live/TEO/test/899.ts
-#EXTINF:-1,PT: Benfica TV 1
-http://ipsatpro.com:8000/live/TEO/test/900.ts
-#EXTINF:-1,PT: TVCine 1
-http://ipsatpro.com:8000/live/TEO/test/936.ts
-#EXTINF:-1,PT: TVCine 2
-http://ipsatpro.com:8000/live/TEO/test/935.ts
-#EXTINF:-1,PT: TVCine 3
-http://ipsatpro.com:8000/live/TEO/test/934.ts
-#EXTINF:-1,PT: TVCine 4
-http://ipsatpro.com:8000/live/TEO/test/933.ts
-#EXTINF:-1,PT: TVCseries
-http://ipsatpro.com:8000/live/TEO/test/930.ts
-#EXTINF:-1,PT: VeVo 1 HD
-http://ipsatpro.com:8000/live/TEO/test/898.ts
-#EXTINF:-1,PT: VeVo 2 HD
-http://ipsatpro.com:8000/live/TEO/test/897.ts
-#EXTINF:-1,PT: VeVo 3 HD
-http://ipsatpro.com:8000/live/TEO/test/896.ts
-#EXTINF:-1,PT: AXN HD
-http://ipsatpro.com:8000/live/TEO/test/915.ts
-#EXTINF:-1,PT: Axn White HD
-http://ipsatpro.com:8000/live/TEO/test/916.ts
-#EXTINF:-1,PT: Axn Black HD
-http://ipsatpro.com:8000/live/TEO/test/932.ts
-#EXTINF:-1,PT: Fox Comedy
-http://ipsatpro.com:8000/live/TEO/test/923.ts
-#EXTINF:-1,PT: Fox HD
-http://ipsatpro.com:8000/live/TEO/test/926.ts
-#EXTINF:-1,PT: Fox Life HD
-http://ipsatpro.com:8000/live/TEO/test/925.ts
-#EXTINF:-1,PT: Fox Crime
-http://ipsatpro.com:8000/live/TEO/test/901.ts
-#EXTINF:-1,PT: Toros tv
-http://ipsatpro.com:8000/live/TEO/test/909.ts
-#EXTINF:-1,PT: TVI Ficcao
-http://ipsatpro.com:8000/live/TEO/test/886.ts
-#EXTINF:-1,PT: TVI
-http://ipsatpro.com:8000/live/TEO/test/889.ts
-#EXTINF:-1,PT: TVI 24
-http://ipsatpro.com:8000/live/TEO/test/887.ts
-#EXTINF:-1,PT: TV Globo
-http://ipsatpro.com:8000/live/TEO/test/888.ts
-#EXTINF:-1,PT: SIC
-http://ipsatpro.com:8000/live/TEO/test/924.ts
-#EXTINF:-1,PT: SIC K
-http://ipsatpro.com:8000/live/TEO/test/919.ts
-#EXTINF:-1,PT: SIC Noticias
-http://ipsatpro.com:8000/live/TEO/test/903.ts
-#EXTINF:-1,PT: Sic Radical
-http://ipsatpro.com:8000/live/TEO/test/914.ts
-#EXTINF:-1,PT: SIC Caras
-http://ipsatpro.com:8000/live/TEO/test/912.ts
-#EXTINF:-1,PT: Sic Mulher
-http://ipsatpro.com:8000/live/TEO/test/913.ts
-#EXTINF:-1,PT: RTP Memoria
-http://ipsatpro.com:8000/live/TEO/test/890.ts
-#EXTINF:-1,PT: RTP Madeira
-http://ipsatpro.com:8000/live/TEO/test/891.ts
-#EXTINF:-1,PT: RTP Acores
-http://ipsatpro.com:8000/live/TEO/test/893.ts
-#EXTINF:-1,PT: RTP 2
-http://ipsatpro.com:8000/live/TEO/test/894.ts
-#EXTINF:-1,PT: RTP 1
-http://ipsatpro.com:8000/live/TEO/test/895.ts
-#EXTINF:-1,PT: CM TV
-http://ipsatpro.com:8000/live/TEO/test/908.ts
-#EXTINF:-1,PT: TV Globo Premium
-http://ipsatpro.com:8000/live/TEO/test/931.ts
-#EXTINF:-1,PT: Record
-http://ipsatpro.com:8000/live/TEO/test/917.ts
-#EXTINF:-1,PT: PFC
-http://ipsatpro.com:8000/live/TEO/test/911.ts
-#EXTINF:-1,PT: Jim Jim
-http://ipsatpro.com:8000/live/TEO/test/918.ts
-#EXTINF:-1,PT: SyFy
-http://ipsatpro.com:8000/live/TEO/test/902.ts
-#EXTINF:-1,PT: MOV HD
-http://ipsatpro.com:8000/live/TEO/test/929.ts
-#EXTINF:-1,PT: CartoonNet Work
-http://ipsatpro.com:8000/live/TEO/test/920.ts
-#EXTINF:-1,PT: Motors TV
-http://ipsatpro.com:8000/live/TEO/test/921.ts
-#EXTINF:-1,PT: Cine Mundo
-http://ipsatpro.com:8000/live/TEO/test/892.ts
-#EXTINF:-1,PT: EuroSpor News
-http://ipsatpro.com:8000/live/TEO/test/922.ts
-#EXTINF:-1,PT: Hollywood
-http://ipsatpro.com:8000/live/TEO/test/907.ts
-#EXTINF:-1,PT: EuroSport 2
-http://ipsatpro.com:8000/live/TEO/test/927.ts
-#EXTINF:-1,PT: EuroSport
-http://ipsatpro.com:8000/live/TEO/test/928.ts
-#EXTINF:-1,PT: Disney Junior
-http://ipsatpro.com:8000/live/TEO/test/905.ts
-#EXTINF:-1,PT: Disney Channel
-http://ipsatpro.com:8000/live/TEO/test/904.ts
-#EXTINF:-1,PT: Discovery HD
-http://ipsatpro.com:8000/live/TEO/test/906.ts
-#EXTINF:-1,PT: Abola tv
-http://ipsatpro.com:8000/live/TEO/test/910.ts
-#EXTINF:-1,------- Spanish ---------
-http://ipsatpro.com:8000/live/TEO/test/1072.ts
-#EXTINF:-1,ES: Taquilla 1
-http://ipsatpro.com:8000/live/TEO/test/1071.ts
-#EXTINF:-1,ES: Taquilla 2
-http://ipsatpro.com:8000/live/TEO/test/1070.ts
-#EXTINF:-1,ES: Taquilla 3
-http://ipsatpro.com:8000/live/TEO/test/1069.ts
-#EXTINF:-1,ES: Taquilla 4
-http://ipsatpro.com:8000/live/TEO/test/1068.ts
-#EXTINF:-1,ES: Taquilla 5
-http://ipsatpro.com:8000/live/TEO/test/1067.ts
-#EXTINF:-1,ES: Taquilla 6
-http://ipsatpro.com:8000/live/TEO/test/1066.ts
-#EXTINF:-1,ES: Taquilla 7
-http://ipsatpro.com:8000/live/TEO/test/1065.ts
-#EXTINF:-1,ES: Taquilla 8
-http://ipsatpro.com:8000/live/TEO/test/1064.ts
-#EXTINF:-1,ES: Taquilla 9
-http://ipsatpro.com:8000/live/TEO/test/1063.ts
-#EXTINF:-1,ES: Taquilla 10
-http://ipsatpro.com:8000/live/TEO/test/1062.ts
-#EXTINF:-1,ES: Canal+ Liga
-http://ipsatpro.com:8000/live/TEO/test/1022.ts
-#EXTINF:-1,ES: Canal+ Deportes HD
-http://ipsatpro.com:8000/live/TEO/test/1012.ts
-#EXTINF:-1,ES: Canal+ Futpol
-http://ipsatpro.com:8000/live/TEO/test/1020.ts
-#EXTINF:-1,ES: Canal+ Golf
-http://ipsatpro.com:8000/live/TEO/test/1019.ts
-#EXTINF:-1,ES: Canal+ HD
-http://ipsatpro.com:8000/live/TEO/test/1016.ts
-#EXTINF:-1,ES: Canal+ Accion
-http://ipsatpro.com:8000/live/TEO/test/1030.ts
-#EXTINF:-1,ES: Canal+ Dcine
-http://ipsatpro.com:8000/live/TEO/test/1028.ts
-#EXTINF:-1,ES: Canal+ Comedia
-http://ipsatpro.com:8000/live/TEO/test/1031.ts
-#EXTINF:-1,ES: Canal+ Estrenos HD
-http://ipsatpro.com:8000/live/TEO/test/1059.ts
-#EXTINF:-1,ES: Canal+ de las Estrellas
-http://ipsatpro.com:8000/live/TEO/test/1048.ts
-#EXTINF:-1,ES: Canal+ Series
-http://ipsatpro.com:8000/live/TEO/test/1058.ts
-#EXTINF:-1,ES: Canal+ Serie Xtra
-http://ipsatpro.com:8000/live/TEO/test/1004.ts
-#EXTINF:-1,ES: Canal+ Cuatro
-http://ipsatpro.com:8000/live/TEO/test/1026.ts
-#EXTINF:-1,ES: Canal+ Dcine Espanol
-http://ipsatpro.com:8000/live/TEO/test/1033.ts
-#EXTINF:-1,ES: Canal+ Cocina
-http://ipsatpro.com:8000/live/TEO/test/1024.ts
-#EXTINF:-1,ES: Canal+ AXN HD
-http://ipsatpro.com:8000/live/TEO/test/1054.ts
-#EXTINF:-1,ES: Canal+ Toros
-http://ipsatpro.com:8000/live/TEO/test/1049.ts
-#EXTINF:-1,ES: Canal Los40
-http://ipsatpro.com:8000/live/TEO/test/1002.ts
-#EXTINF:-1,ES: Canal+ Nova
-http://ipsatpro.com:8000/live/TEO/test/1034.ts
-#EXTINF:-1,ES: Canal+ Fox HD
-http://ipsatpro.com:8000/live/TEO/test/1029.ts
-#EXTINF:-1,ES: Canal T HD
-http://ipsatpro.com:8000/live/TEO/test/1047.ts
-#EXTINF:-1,ES: Canal MicroVision HD
-http://ipsatpro.com:8000/live/TEO/test/1041.ts
-#EXTINF:-1,ES: Canal+ 40
-http://ipsatpro.com:8000/live/TEO/test/1039.ts
-#EXTINF:-1,ES: 24 Horas
-http://ipsatpro.com:8000/live/TEO/test/1046.ts
-#EXTINF:-1,ES: Bein Sport ES HD
-http://ipsatpro.com:8000/live/TEO/test/1003.ts
-#EXTINF:-1,ES: Barca TV
-http://ipsatpro.com:8000/live/TEO/test/1021.ts
-#EXTINF:-1,ES: Movis Star Moto Gp
-http://ipsatpro.com:8000/live/TEO/test/1011.ts
-#EXTINF:-1,ES: Movi Star F1
-http://ipsatpro.com:8000/live/TEO/test/1010.ts
-#EXTINF:-1,ES: Comedy Central
-http://ipsatpro.com:8000/live/TEO/test/1042.ts
-#EXTINF:-1,ES: Teledeportes
-http://ipsatpro.com:8000/live/TEO/test/1050.ts
-#EXTINF:-1,ES: Clan TVE
-http://ipsatpro.com:8000/live/TEO/test/1045.ts
-#EXTINF:-1,ES: Real Madrid
-http://ipsatpro.com:8000/live/TEO/test/1037.ts
-#EXTINF:-1,ES: La 1
-http://ipsatpro.com:8000/live/TEO/test/1014.ts
-#EXTINF:-1,ES: La 2
-http://ipsatpro.com:8000/live/TEO/test/1013.ts
-#EXTINF:-1,ES: Canal+ Cine
-http://ipsatpro.com:8000/live/TEO/test/1025.ts
-#EXTINF:-1,ES: La  Sexta HD
-http://ipsatpro.com:8000/live/TEO/test/1017.ts
-#EXTINF:-1,ES: TV Galicia
-http://ipsatpro.com:8000/live/TEO/test/1015.ts
-#EXTINF:-1,ES: News DW
-http://ipsatpro.com:8000/live/TEO/test/1053.ts
-#EXTINF:-1,ES: Proyecto 40
-http://ipsatpro.com:8000/live/TEO/test/1056.ts
-#EXTINF:-1,ES: Azteca Noticias
-http://ipsatpro.com:8000/live/TEO/test/1061.ts
-#EXTINF:-1,ES: 324 Entertainment
-http://ipsatpro.com:8000/live/TEO/test/1005.ts
-#EXTINF:-1,ES: Fox Life
-http://ipsatpro.com:8000/live/TEO/test/1060.ts
-#EXTINF:-1,ES: Hollywood
-http://ipsatpro.com:8000/live/TEO/test/1036.ts
-#EXTINF:-1,ES: Axn White HD
-http://ipsatpro.com:8000/live/TEO/test/1023.ts
-#EXTINF:-1,ES: History
-http://ipsatpro.com:8000/live/TEO/test/1051.ts
-#EXTINF:-1,ES: Calle 13 Spain
-http://ipsatpro.com:8000/live/TEO/test/1009.ts
-#EXTINF:-1,ES: Azteca trece
-http://ipsatpro.com:8000/live/TEO/test/1018.ts
-#EXTINF:-1,ES: Anime
-http://ipsatpro.com:8000/live/TEO/test/999.ts
-#EXTINF:-1,ES: Azteca 7 Monterrey
-http://ipsatpro.com:8000/live/TEO/test/1035.ts
-#EXTINF:-1,ES: Antena 3 Internacional
-http://ipsatpro.com:8000/live/TEO/test/1000.ts
-#EXTINF:-1,ES: A&E
-http://ipsatpro.com:8000/live/TEO/test/1001.ts
-#EXTINF:-1,ES: FDF
-http://ipsatpro.com:8000/live/TEO/test/1007.ts
-#EXTINF:-1,ES: Caza Y Pesca
-http://ipsatpro.com:8000/live/TEO/test/1027.ts
-#EXTINF:-1,ES: Viajar
-http://ipsatpro.com:8000/live/TEO/test/1043.ts
-#EXTINF:-1,ES: Teleticino
-http://ipsatpro.com:8000/live/TEO/test/1008.ts
-#EXTINF:-1,ES: National Geographic
-http://ipsatpro.com:8000/live/TEO/test/1057.ts
-#EXTINF:-1,ES: National Geographic Wild
-http://ipsatpro.com:8000/live/TEO/test/1055.ts
-#EXTINF:-1,ES: Disney Chaneel
-http://ipsatpro.com:8000/live/TEO/test/1040.ts
-#EXTINF:-1,ES: Disney XD
-http://ipsatpro.com:8000/live/TEO/test/1038.ts
-#EXTINF:-1,ES: TNT
-http://ipsatpro.com:8000/live/TEO/test/1032.ts
-#EXTINF:-1,ES: TVN Chile HD
-http://ipsatpro.com:8000/live/TEO/test/1006.ts
-#EXTINF:-1,ES: CHILE La Red
-http://ipsatpro.com:8000/live/TEO/test/1052.ts
-#EXTINF:-1,ES: ITV HD Chile
-http://ipsatpro.com:8000/live/TEO/test/1044.ts
+#EXTINF:-1 tvg-id="" tvg-name="ELE RESSUCITOU" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Desenhos Biblicos",ELE RESSUCITOU
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ERIGIDA SOBRE UMA ROCHA" tvg-logo="http://i.imgur.com/FJgwtT5.png" group-title="Desenhos Biblicos",ERIGIDA SOBRE UMA ROCHA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EU ACREDITO" tvg-logo="http://149.56.98.189:25461/images/not-found.jpg" group-title="Desenhos Biblicos",EU ACREDITO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JOÃO BASTISTA" tvg-logo="n/A" group-title="Desenhos Biblicos",JOÃO BASTISTA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LÁZARO VIVE" tvg-logo="n/A" group-title="Desenhos Biblicos",LÁZARO VIVE
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MILAGRES DE JESUS" tvg-logo="http://149.56.98.189:25461/images/3914116.jpg" group-title="Desenhos Biblicos",MILAGRES DE JESUS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nasce o Rei - O nascimento de Jesus" tvg-logo="https://http2.mlstatic.com/dvd-desenhos-biblicos-vol-3-nasce-o-rei-ele-ressuscitou-D_NQ_NP_806721-MLB20843895009_072016-F.jpg" group-title="Desenhos Biblicos",Nasce o Rei - O nascimento de Jesus
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O FILHO DE DEUS" tvg-logo="http://149.56.98.189:25461/images/3210686.jpg" group-title="Desenhos Biblicos",O FILHO DE DEUS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O FILHO PRÓDIGO" tvg-logo="n/A" group-title="Desenhos Biblicos",O FILHO PRÓDIGO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O JUIZ JUSTO" tvg-logo="n/A" group-title="Desenhos Biblicos",O JUIZ JUSTO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MAIOR É O MENOR" tvg-logo="n/A" group-title="Desenhos Biblicos",O MAIOR É O MENOR
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MESSIAS ESTÁ CHEGANDO!" tvg-logo="n/A" group-title="Desenhos Biblicos",O MESSIAS ESTÁ CHEGANDO!
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O MINISTÉRIO DE PAULO" tvg-logo="n/A" group-title="Desenhos Biblicos",O MINISTÉRIO DE PAULO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O PAI NOSSO" tvg-logo="http://149.56.98.189:25461/images/not-found.jpg" group-title="Desenhos Biblicos",O PAI NOSSO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O PERDIDO É ACHADO" tvg-logo="n/A" group-title="Desenhos Biblicos",O PERDIDO É ACHADO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O REINO DO CÉU" tvg-logo="n/A" group-title="Desenhos Biblicos",O REINO DO CÉU
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PERDOAI AS NOSSAS DÍVIDAS" tvg-logo="n/A" group-title="Desenhos Biblicos",PERDOAI AS NOSSAS DÍVIDAS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RESPEITÁVEL É JESUS" tvg-logo="n/A" group-title="Desenhos Biblicos",RESPEITÁVEL É JESUS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SINAIS DOS TEMPOS" tvg-logo="http://149.56.98.189:25461/images/not-found.jpg" group-title="Desenhos Biblicos",SINAIS DOS TEMPOS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TESOUROS NO CÉU" tvg-logo="n/A" group-title="Desenhos Biblicos",TESOUROS NO CÉU
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Funcionario do Mes" tvg-logo="http://149.56.98.189:25461/images/0424993.jpg" group-title="Filmes Ondemand",Funcionario do Mes
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O ABC do Amor" tvg-logo="http://149.56.98.189:25461/images/0068555.jpg" group-title="Filmes Ondemand",O ABC do Amor
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Paraiso e Logo Aqui" tvg-logo="http://149.56.98.189:25461/images/1029120.jpg" group-title="Filmes Ondemand",O Paraiso e Logo Aqui
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Seus, os Meus e os Nossos" tvg-logo="http://149.56.98.189:25461/images/0443295.jpg" group-title="Filmes Ondemand",Os Seus, os Meus e os Nossos
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A BELA E A FERA" tvg-logo="http://149.56.98.189:25461/images/2771200.jpg" group-title="Filmes Ondemand",A BELA E A FERA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A CABANA" tvg-logo="http://149.56.98.189:25461/images/2872518.jpg" group-title="Filmes Ondemand",A CABANA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A GAROTA NO TREM" tvg-logo="http://149.56.98.189:25461/images/3631112.jpg" group-title="Filmes Ondemand",A GAROTA NO TREM
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE MURALHA" tvg-logo="http://149.56.98.189:25461/images/2034800.jpg" group-title="Filmes Ondemand",A GRANDE MURALHA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A VIGILANTE DO AMANHA" tvg-logo="http://149.56.98.189:25461/images/1219827.jpg" group-title="Filmes Ondemand",A VIGILANTE DO AMANHA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAIS FANTASTICOS E ONDE HABITAM" tvg-logo="http://149.56.98.189:25461/images/3183660.jpg" group-title="Filmes Ondemand",ANIMAIS FANTASTICOS E ONDE HABITAM
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANJOS DA NOITE 5" tvg-logo="http://149.56.98.189:25461/images/3717252.jpg" group-title="Filmes Ondemand",ANJOS DA NOITE 5
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ASSASSIN S CREED" tvg-logo="http://149.56.98.189:25461/images/2094766.jpg" group-title="Filmes Ondemand",ASSASSIN S CREED
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ATE O ULTIMO HOMEM" tvg-logo="http://149.56.98.189:25461/images/2119532.jpg" group-title="Filmes Ondemand",ATE O ULTIMO HOMEM
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BATMAN VS. SUPERMAN" tvg-logo="http://149.56.98.189:25461/images/2975590.jpg" group-title="Filmes Ondemand",BATMAN VS. SUPERMAN
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BELEZA OCULTA" tvg-logo="http://149.56.98.189:25461/images/4682786.jpg" group-title="Filmes Ondemand",BELEZA OCULTA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BREAKING BAD" tvg-logo="http://149.56.98.189:25461/images/0903747.jpg" group-title="Filmes Ondemand",BREAKING BAD
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CAPITAO AMERICA: GUERRA CIVIL" tvg-logo="http://149.56.98.189:25461/images/3498820.jpg" group-title="Filmes Ondemand",CAPITAO AMERICA: GUERRA CIVIL
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DOUTOR ESTRANHO" tvg-logo="http://149.56.98.189:25461/images/1211837.jpg" group-title="Filmes Ondemand",DOUTOR ESTRANHO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESQUADRAO SUICIDA" tvg-logo="http://149.56.98.189:25461/images/1386697.jpg" group-title="Filmes Ondemand",ESQUADRAO SUICIDA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FRAGMENTADO" tvg-logo="http://149.56.98.189:25461/images/4972582.jpg" group-title="Filmes Ondemand",FRAGMENTADO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HORIZONTE PROFUNDO" tvg-logo="http://149.56.98.189:25461/images/1860357.jpg" group-title="Filmes Ondemand",HORIZONTE PROFUNDO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="INFERNO" tvg-logo="http://149.56.98.189:25461/images/3062096.jpg" group-title="Filmes Ondemand",INFERNO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="INTERESTELAR" tvg-logo="http://149.56.98.189:25461/images/0816692.jpg" group-title="Filmes Ondemand",INTERESTELAR
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JACK REACHER" tvg-logo="http://149.56.98.189:25461/images/0790724.jpg" group-title="Filmes Ondemand",JACK REACHER
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JOHN WICK 2" tvg-logo="http://149.56.98.189:25461/images/4425200.jpg" group-title="Filmes Ondemand",JOHN WICK 2
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KONG A ILHA DA CAVEIRA" tvg-logo="http://149.56.98.189:25461/images/3731562.jpg" group-title="Filmes Ondemand",KONG A ILHA DA CAVEIRA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MAX STEEL" tvg-logo="http://149.56.98.189:25461/images/1472584.jpg" group-title="Filmes Ondemand",MAX STEEL
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MOANA  UM MAR DE AVENTURAS" tvg-logo="http://149.56.98.189:25461/images/3521164.jpg" group-title="Filmes Ondemand",MOANA  UM MAR DE AVENTURAS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O CHAMADO 3" tvg-logo="http://149.56.98.189:25461/images/0498381.jpg" group-title="Filmes Ondemand",O CHAMADO 3
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O ESPACO ENTRE NOS" tvg-logo="http://149.56.98.189:25461/images/3922818.jpg" group-title="Filmes Ondemand",O ESPACO ENTRE NOS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O PODEROSO CHEFINHO" tvg-logo="http://149.56.98.189:25461/images/3874544.jpg" group-title="Filmes Ondemand",O PODEROSO CHEFINHO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O PORTAL DOS GUERREIROS" tvg-logo="http://149.56.98.189:25461/images/4652532.jpg" group-title="Filmes Ondemand",O PORTAL DOS GUERREIROS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PASSAGEIROS" tvg-logo="http://149.56.98.189:25461/images/1355644.jpg" group-title="Filmes Ondemand",PASSAGEIROS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PEQUENOS DELITOS" tvg-logo="http://149.56.98.189:25461/images/5717492.jpg" group-title="Filmes Ondemand",PEQUENOS DELITOS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="POWER RANGERS" tvg-logo="http://149.56.98.189:25461/images/3717490.jpg" group-title="Filmes Ondemand",POWER RANGERS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RESIDENT EVIL 6" tvg-logo="http://149.56.98.189:25461/images/2592614.jpg" group-title="Filmes Ondemand",RESIDENT EVIL 6
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SILENCIO" tvg-logo="http://149.56.98.189:25461/images/0490215.jpg" group-title="Filmes Ondemand",SILENCIO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TRANSTORNADA OBSESSIVA COMPULSIVA" tvg-logo="http://149.56.98.189:25461/images/5337480.jpg" group-title="Filmes Ondemand",TRANSTORNADA OBSESSIVA COMPULSIVA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VELOZES E FURIOSOS 8" tvg-logo="http://149.56.98.189:25461/images/4630562.jpg" group-title="Filmes Ondemand",VELOZES E FURIOSOS 8
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIDA" tvg-logo="http://149.56.98.189:25461/images/5442430.jpg" group-title="Filmes Ondemand",VIDA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VIZINHOS NADA SECRETOS" tvg-logo="http://149.56.98.189:25461/images/2387499.jpg" group-title="Filmes Ondemand",VIZINHOS NADA SECRETOS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="WARCRAFT" tvg-logo="http://149.56.98.189:25461/images/0803096.jpg" group-title="Filmes Ondemand",WARCRAFT
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN: APOCALIPSE" tvg-logo="http://149.56.98.189:25461/images/3385516.jpg" group-title="Filmes Ondemand",X-MEN: APOCALIPSE
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX REATIVADO" tvg-logo="http://149.56.98.189:25461/images/1293847.jpg" group-title="Filmes Ondemand",XXX REATIVADO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LOGAN" tvg-logo="http://149.56.98.189:25461/images/3315342.jpg" group-title="Filmes Ondemand",LOGAN
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A CULPA E DAS ESTRELAS" tvg-logo="http://149.56.98.189:25461/images/2582846.jpg" group-title="Filmes Ondemand",A CULPA E DAS ESTRELAS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEN-HUR" tvg-logo="http://149.56.98.189:25461/images/2638144.jpg" group-title="Filmes Ondemand",BEN-HUR
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CAES SELVAGENS" tvg-logo="http://149.56.98.189:25461/images/4054654.jpg" group-title="Filmes Ondemand",CAES SELVAGENS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CAVALO DE GUERRA" tvg-logo="http://149.56.98.189:25461/images/1568911.jpg" group-title="Filmes Ondemand",CAVALO DE GUERRA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CHIPS" tvg-logo="http://149.56.98.189:25461/images/0493405.jpg" group-title="Filmes Ondemand",CHIPS
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CIRCULO DE FOGO" tvg-logo="http://149.56.98.189:25461/images/1663662.jpg" group-title="Filmes Ondemand",CIRCULO DE FOGO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="DEUSES DO EGITO" tvg-logo="http://149.56.98.189:25461/images/2404233.jpg" group-title="Filmes Ondemand",DEUSES DO EGITO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HERCULES: 2014" tvg-logo="http://149.56.98.189:25461/images/1267297.jpg" group-title="Filmes Ondemand",HERCULES: 2014
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="INVASAO A LONDRES" tvg-logo="http://149.56.98.189:25461/images/3300542.jpg" group-title="Filmes Ondemand",INVASAO A LONDRES
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JOHN WICK" tvg-logo="http://149.56.98.189:25461/images/2911666.jpg" group-title="Filmes Ondemand",JOHN WICK
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MOGLI" tvg-logo="http://149.56.98.189:25461/images/3040964.jpg" group-title="Filmes Ondemand",MOGLI
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MULHER MARAVILHA: 2017" tvg-logo="http://149.56.98.189:25461/images/0451279.jpg" group-title="Filmes Ondemand",MULHER MARAVILHA: 2017
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OS PENETRAS 2" tvg-logo="http://149.56.98.189:25461/images/5259790.jpg" group-title="Filmes Ondemand",OS PENETRAS 2
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="THE ASSIGMENT" tvg-logo="http://149.56.98.189:25461/images/5034474.jpg" group-title="Filmes Ondemand",THE ASSIGMENT
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-MEN: DIAS DE UM FUTURO ESQUECIDO" tvg-logo="http://149.56.98.189:25461/images/1877832.jpg" group-title="Filmes Ondemand",X-MEN: DIAS DE UM FUTURO ESQUECIDO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="REI ARTHUR: A LENDA DA ESPADA" tvg-logo="http://149.56.98.189:25461/images/1972591.jpg" group-title="Filmes Ondemand",REI ARTHUR: A LENDA DA ESPADA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A CIDADE PERDIDA" tvg-logo="http://149.56.98.189:25461/images/0343996.jpg" group-title="Filmes Ondemand",A CIDADE PERDIDA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A MUMIA 2017" tvg-logo="http://149.56.98.189:25461/images/2345759.jpg" group-title="Filmes Ondemand",A MUMIA 2017
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EU FICO LOKO" tvg-logo="http://149.56.98.189:25461/images/5968964.jpg" group-title="Filmes Ondemand",EU FICO LOKO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="FOME DE PODER" tvg-logo="http://149.56.98.189:25461/images/4276820.jpg" group-title="Filmes Ondemand",FOME DE PODER
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NINGUEM ENTRA - NINGUEM SAI" tvg-logo="http://149.56.98.189:25461/images/6230488.jpg" group-title="Filmes Ondemand",NINGUEM ENTRA - NINGUEM SAI
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O CIRCULO" tvg-logo="http://149.56.98.189:25461/images/4287320.jpg" group-title="Filmes Ondemand",O CIRCULO
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PONTE DOS ESPIOES" tvg-logo="http://149.56.98.189:25461/images/3682448.jpg" group-title="Filmes Ondemand",PONTE DOS ESPIOES
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TINHA QUE SER ELE" tvg-logo="http://149.56.98.189:25461/images/4501244.jpg" group-title="Filmes Ondemand",TINHA QUE SER ELE
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VERSOES DE UM CRIME" tvg-logo="http://149.56.98.189:25461/images/3503406.jpg" group-title="Filmes Ondemand",VERSOES DE UM CRIME
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VINGADORES 2" tvg-logo="http://149.56.98.189:25461/images/2395427.jpg" group-title="Filmes Ondemand",VINGADORES 2
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ZE COLMEIA: O FILME" tvg-logo="http://149.56.98.189:25461/images/1302067.jpg" group-title="Filmes Ondemand",ZE COLMEIA: O FILME
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ZOOTOPIA" tvg-logo="http://149.56.98.189:25461/images/2948356.jpg" group-title="Filmes Ondemand",ZOOTOPIA
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Era da Escuridao - Mutant Chronicles" tvg-logo="http://149.56.98.189:25461/images/0490181.jpg" group-title="Filmes Ondemand",A Era da Escuridao - Mutant Chronicles
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Hart" tvg-logo="http://149.56.98.189:25461/images/0251114.jpg" group-title="Filmes Ondemand",A Guerra de Hart
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Informante" tvg-logo="http://149.56.98.189:25461/images/0896872.jpg" group-title="Filmes Ondemand",A Informante
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Jovem Rainha Victoria" tvg-logo="http://149.56.98.189:25461/images/0962736.jpg" group-title="Filmes Ondemand",A Jovem Rainha Victoria
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Africa dos Meus Sonhos" tvg-logo="http://149.56.98.189:25461/images/0167203.jpg" group-title="Filmes Ondemand",Africa dos Meus Sonhos
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Indomavel" tvg-logo="http://149.56.98.189:25461/images/0104647.jpg" group-title="Filmes Ondemand",Agente Indomavel
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigo de Caca" tvg-logo="http://149.56.98.189:25461/images/0400717.jpg" group-title="Filmes Ondemand",Amigo de Caca
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite 3 - A Rebeliao" tvg-logo="http://149.56.98.189:25461/images/0834001.jpg" group-title="Filmes Ondemand",Anjos da Noite 3 - A Rebeliao
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Anjos da Noite: A Evolucao" tvg-logo="http://149.56.98.189:25461/images/0401855.jpg" group-title="Filmes Ondemand",Anjos da Noite: A Evolucao
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Uma Vez" tvg-logo="http://149.56.98.189:25461/images/0907657.jpg" group-title="Filmes Ondemand",Apenas Uma Vez
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aprendendo A Viver" tvg-logo="http://149.56.98.189:25461/images/0160672.jpg" group-title="Filmes Ondemand",Aprendendo A Viver
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assalto Sobre Trilhos" tvg-logo="http://149.56.98.189:25461/images/0113845.jpg" group-title="Filmes Ondemand",Assalto Sobre Trilhos
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atraidos Pelo Destino" tvg-logo="http://149.56.98.189:25461/images/0110167.jpg" group-title="Filmes Ondemand",Atraidos Pelo Destino
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brinquedo Assassino" tvg-logo="http://149.56.98.189:25461/images/0094862.jpg" group-title="Filmes Ondemand",Brinquedo Assassino
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cacada sem Treguas" tvg-logo="http://149.56.98.189:25461/images/0102005.jpg" group-title="Filmes Ondemand",Cacada sem Treguas
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caes de Guerra" tvg-logo="http://149.56.98.189:25461/images/2005151.jpg" group-title="Filmes Ondemand",Caes de Guerra
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caminhos Opostos" tvg-logo="http://149.56.98.189:25461/images/1143896.jpg" group-title="Filmes Ondemand",Caminhos Opostos
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Christine - O Carro Assassino" tvg-logo="http://149.56.98.189:25461/images/0085333.jpg" group-title="Filmes Ondemand",Christine - O Carro Assassino
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Como Se Fosse a Primeira Vez" tvg-logo="http://149.56.98.189:25461/images/0343660.jpg" group-title="Filmes Ondemand",Como Se Fosse a Primeira Vez
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conquista Sangrenta" tvg-logo="http://149.56.98.189:25461/images/0089153.jpg" group-title="Filmes Ondemand",Conquista Sangrenta
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contatos Imediatos de Terceiro Grau" tvg-logo="http://149.56.98.189:25461/images/0075860.jpg" group-title="Filmes Ondemand",Contatos Imediatos de Terceiro Grau
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crash: No Limite" tvg-logo="http://149.56.98.189:25461/images/0375679.jpg" group-title="Filmes Ondemand",Crash: No Limite
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="http://149.56.98.189:25461/images/1241317.jpg" group-title="Filmes Ondemand",Death Note
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desafio Radical" tvg-logo="http://149.56.98.189:25461/images/0283160.jpg" group-title="Filmes Ondemand",Desafio Radical
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Divisao de Homicidios" tvg-logo="http://149.56.98.189:25461/images/0329717.jpg" group-title="Filmes Ondemand",Divisao de Homicidios
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Fantastico" tvg-logo="http://149.56.98.189:25461/images/0057012.jpg" group-title="Filmes Ondemand",Dr. Fantastico
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Equilibrio" tvg-logo="http://149.56.98.189:25461/images/6654086.jpg" group-title="Filmes Ondemand",Equilibrio
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espiao Por Acidente" tvg-logo="http://149.56.98.189:25461/images/0271946.jpg" group-title="Filmes Ondemand",Espiao Por Acidente
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sei Quem Me Matou" tvg-logo="http://149.56.98.189:25461/images/0897361.jpg" group-title="Filmes Ondemand",Eu Sei Quem Me Matou
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Evil Dead - A Morte do Demonio" tvg-logo="http://149.56.98.189:25461/images/0083907.jpg" group-title="Filmes Ondemand",Evil Dead - A Morte do Demonio
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Excesso de Bagagem" tvg-logo="http://149.56.98.189:25461/images/0119086.jpg" group-title="Filmes Ondemand",Excesso de Bagagem
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="eXistenZ" tvg-logo="http://149.56.98.189:25461/images/0120907.jpg" group-title="Filmes Ondemand",eXistenZ
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantasmas de Marte" tvg-logo="http://149.56.98.189:25461/images/0228333.jpg" group-title="Filmes Ondemand",Fantasmas de Marte
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feitico do Tempo" tvg-logo="http://149.56.98.189:25461/images/0107048.jpg" group-title="Filmes Ondemand",Feitico do Tempo
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fuga de Absolom" tvg-logo="http://149.56.98.189:25461/images/0110678.jpg" group-title="Filmes Ondemand",Fuga de Absolom
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Funny Lady" tvg-logo="http://149.56.98.189:25461/images/0073026.jpg" group-title="Filmes Ondemand",Funny Lady
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla (1998)" tvg-logo="http://149.56.98.189:25461/images/0120685.jpg" group-title="Filmes Ondemand",Godzilla (1998)
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Greta" tvg-logo="http://149.56.98.189:25461/images/1059925.jpg" group-title="Filmes Ondemand",Greta
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guerra ao Terror" tvg-logo="http://149.56.98.189:25461/images/0887912.jpg" group-title="Filmes Ondemand",Guerra ao Terror
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hancock" tvg-logo="http://149.56.98.189:25461/images/0448157.jpg" group-title="Filmes Ondemand",Hancock
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Haven" tvg-logo="http://149.56.98.189:25461/images/1519931.jpg" group-title="Filmes Ondemand",Haven
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Herois" tvg-logo="http://149.56.98.189:25461/images/0813715.jpg" group-title="Filmes Ondemand",Herois
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homens Perigosos" tvg-logo="http://149.56.98.189:25461/images/0119311.jpg" group-title="Filmes Ondemand",Homens Perigosos
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honra e Coragem - As Quatro Plumas" tvg-logo="http://149.56.98.189:25461/images/0119311.jpg" group-title="Filmes Ondemand",Honra e Coragem - As Quatro Plumas
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hooligans: Furia nos campos" tvg-logo="http://149.56.98.189:25461/images/0119311.jpg" group-title="Filmes Ondemand",Hooligans: Furia nos campos
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horas de Desespero" tvg-logo="http://149.56.98.189:25461/images/1781922.jpg" group-title="Filmes Ondemand",Horas de Desespero
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Impacto Mortal" tvg-logo="http://149.56.98.189:25461/images/3520290.jpg" group-title="Filmes Ondemand",Impacto Mortal
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JCVD" tvg-logo="http://149.56.98.189:25461/images/1130988.jpg" group-title="Filmes Ondemand",JCVD
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jovens Bruxas" tvg-logo="http://149.56.98.189:25461/images/0158552.jpg" group-title="Filmes Ondemand",Jovens Bruxas
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kalifornia - Uma Viagem ao Inferno" tvg-logo="http://149.56.98.189:25461/images/0107302.jpg" group-title="Filmes Ondemand",Kalifornia - Uma Viagem ao Inferno
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Karate Kid 3 - O Desafio Final Filme" tvg-logo="http://149.56.98.189:25461/images/0107302.jpg" group-title="Filmes Ondemand",Karate Kid 3 - O Desafio Final Filme
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lagrimas do Sol" tvg-logo="http://149.56.98.189:25461/images/0314353.jpg" group-title="Filmes Ondemand",Lagrimas do Sol
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lenda Urbana 2" tvg-logo="http://149.56.98.189:25461/images/0192731.jpg" group-title="Filmes Ondemand",Lenda Urbana 2
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matador De Aluguel" tvg-logo="http://149.56.98.189:25461/images/0098206.jpg" group-title="Filmes Ondemand",Matador De Aluguel
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mergulho Radical 2: Os Recifes" tvg-logo="http://149.56.98.189:25461/images/0865907.jpg" group-title="Filmes Ondemand",Mergulho Radical 2: Os Recifes
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nao Adianta Fugir" tvg-logo="http://149.56.98.189:25461/images/1199550.jpg" group-title="Filmes Ondemand",Nao Adianta Fugir
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nicholas Nickleby" tvg-logo="http://149.56.98.189:25461/images/0309912.jpg" group-title="Filmes Ondemand",Nicholas Nickleby
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Albergue" tvg-logo="http://149.56.98.189:25461/images/0450278.jpg" group-title="Filmes Ondemand",O Albergue
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Albergue 2" tvg-logo="http://149.56.98.189:25461/images/0498353.jpg" group-title="Filmes Ondemand",O Albergue 2
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Casamento de Rachel" tvg-logo="http://149.56.98.189:25461/images/1084950.jpg" group-title="Filmes Ondemand",O Casamento de Rachel
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Colecionador de Ossos" tvg-logo="http://149.56.98.189:25461/images/0145681.jpg" group-title="Filmes Ondemand",O Colecionador de Ossos
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Forasteiro 2" tvg-logo="http://149.56.98.189:25461/images/0443450.jpg" group-title="Filmes Ondemand",O Forasteiro 2
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Anjo Negro" tvg-logo="http://149.56.98.189:25461/images/0099817.jpg" group-title="Filmes Ondemand",O Grande Anjo Negro
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grito 2" tvg-logo="http://149.56.98.189:25461/images/0433386.jpg" group-title="Filmes Ondemand",O Grito 2
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Guardiao" tvg-logo="http://149.56.98.189:25461/images/0406816.jpg" group-title="Filmes Ondemand",O Guardiao
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Guardiao - 2 Retorno As Minas do Rei Salomao" tvg-logo="http://149.56.98.189:25461/images/0455596.jpg" group-title="Filmes Ondemand",O Guardiao - 2 Retorno As Minas do Rei Salomao
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Guardiao 3 - A Maldicao do Calice de Judas" tvg-logo="http://149.56.98.189:25461/images/1146438.jpg" group-title="Filmes Ondemand",O Guardiao 3 - A Maldicao do Calice de Judas
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homen Sombra" tvg-logo="http://149.56.98.189:25461/images/not-found.jpg" group-title="Filmes Ondemand",O Homen Sombra
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Inquilino" tvg-logo="http://149.56.98.189:25461/images/0074811.jpg" group-title="Filmes Ondemand",O Inquilino
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Legionario" tvg-logo="http://149.56.98.189:25461/images/0100029.jpg" group-title="Filmes Ondemand",O Legionario
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Melhor Amigo da Noiva" tvg-logo="http://149.56.98.189:25461/images/0866439.jpg" group-title="Filmes Ondemand",O Melhor Amigo da Noiva
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Nome do Jogo" tvg-logo="http://149.56.98.189:25461/images/0113161.jpg" group-title="Filmes Ondemand",O Nome do Jogo
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Principal Suspeito" tvg-logo="http://149.56.98.189:25461/images/0119791.jpg" group-title="Filmes Ondemand",O Principal Suspeito
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sangue de Romeo" tvg-logo="http://149.56.98.189:25461/images/0107983.jpg" group-title="Filmes Ondemand",O Sangue de Romeo
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Segredo de Brokeback Mountain" tvg-logo="http://149.56.98.189:25461/images/0388795.jpg" group-title="Filmes Ondemand",O Segredo de Brokeback Mountain
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor das Armas" tvg-logo="http://149.56.98.189:25461/images/0399295.jpg" group-title="Filmes Ondemand",O Senhor das Armas
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Sequestro do Metro 123" tvg-logo="http://149.56.98.189:25461/images/1111422.jpg" group-title="Filmes Ondemand",O Sequestro do Metro 123
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Tango e o Assassino" tvg-logo="http://149.56.98.189:25461/images/0283897.jpg" group-title="Filmes Ondemand",O Tango e o Assassino
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ong-Bak - Guerreiro Sagrado" tvg-logo="http://149.56.98.189:25461/images/0368909.jpg" group-title="Filmes Ondemand",Ong-Bak - Guerreiro Sagrado
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Mensageiros" tvg-logo="http://149.56.98.189:25461/images/0425430.jpg" group-title="Filmes Ondemand",Os Mensageiros
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Reis de Dogtown" tvg-logo="http://149.56.98.189:25461/images/0355702.jpg" group-title="Filmes Ondemand",Os Reis de Dogtown
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ouro Branco" tvg-logo="http://149.56.98.189:25461/images/0259484.jpg" group-title="Filmes Ondemand",Ouro Branco
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paraiso" tvg-logo="http://149.56.98.189:25461/images/2006848.jpg" group-title="Filmes Ondemand",Paraiso
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pegar e Largar" tvg-logo="http://149.56.98.189:25461/images/0395495.jpg" group-title="Filmes Ondemand",Pegar e Largar
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Persuasao" tvg-logo="http://149.56.98.189:25461/images/0114117.jpg" group-title="Filmes Ondemand",Persuasao
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piratas do Caribe: A Vingança de Salazar" tvg-logo="http://149.56.98.189:25461/images/1790809.jpg" group-title="Filmes Ondemand",Piratas do Caribe: A Vingança de Salazar
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Poder e Corrupcao (Dirty)" tvg-logo="http://149.56.98.189:25461/images/1790809.jpg" group-title="Filmes Ondemand",Poder e Corrupcao (Dirty)
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Primeira Descida" tvg-logo="http://149.56.98.189:25461/images/not-found.jpg" group-title="Filmes Ondemand",Primeira Descida
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="REC" tvg-logo="http://149.56.98.189:25461/images/1038988.jpg" group-title="Filmes Ondemand",REC
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Red - Aposentados e Perigosos" tvg-logo="http://149.56.98.189:25461/images/1245526.jpg" group-title="Filmes Ondemand",Red - Aposentados e Perigosos
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Redline: Velocidade sem Limites" tvg-logo="http://149.56.98.189:25461/images/0780595.jpg" group-title="Filmes Ondemand",Redline: Velocidade sem Limites
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Replicante" tvg-logo="http://149.56.98.189:25461/images/0238552.jpg" group-title="Filmes Ondemand",Replicante
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil - Apocalipse" tvg-logo="http://149.56.98.189:25461/images/0318627.jpg" group-title="Filmes Ondemand",Resident Evil - Apocalipse
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil - O Hospede Maldito" tvg-logo="http://149.56.98.189:25461/images/0120804.jpg" group-title="Filmes Ondemand",Resident Evil - O Hospede Maldito
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil 3: A Extincao" tvg-logo="http://149.56.98.189:25461/images/0432021.jpg" group-title="Filmes Ondemand",Resident Evil 3: A Extincao
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Risco Absoluto" tvg-logo="http://149.56.98.189:25461/images/1360767.jpg" group-title="Filmes Ondemand",Risco Absoluto
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robocop - O Policial do Futuro" tvg-logo="http://149.56.98.189:25461/images/0093870.jpg" group-title="Filmes Ondemand",Robocop - O Policial do Futuro
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 2" tvg-logo="http://149.56.98.189:25461/images/0100502.jpg" group-title="Filmes Ondemand",RoboCop 2
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robocop 3" tvg-logo="http://149.56.98.189:25461/images/0107978.jpg" group-title="Filmes Ondemand",Robocop 3
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa" tvg-logo="http://149.56.98.189:25461/images/0479143.jpg" group-title="Filmes Ondemand",Rocky Balboa
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruslan - Vinganca Explosiva" tvg-logo="http://149.56.98.189:25461/images/0479143.jpg" group-title="Filmes Ondemand",Ruslan - Vinganca Explosiva
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.W.A.T. - Comando Especial" tvg-logo="http://149.56.98.189:25461/images/0257076.jpg" group-title="Filmes Ondemand",S.W.A.T. - Comando Especial
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silent Hill: Revelacao" tvg-logo="http://149.56.98.189:25461/images/0938330.jpg" group-title="Filmes Ondemand",Silent Hill: Revelacao
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skyline - A Invasao" tvg-logo="http://149.56.98.189:25461/images/1564585.jpg" group-title="Filmes Ondemand",Skyline - A Invasao
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 3 - Regeneracao" tvg-logo="http://149.56.98.189:25461/images/1288403.jpg" group-title="Filmes Ondemand",Soldado Universal 3 - Regeneracao
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Solteira Procura 2" tvg-logo="http://149.56.98.189:25461/images/not-found.jpg" group-title="Filmes Ondemand",Solteira Procura 2
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sou Espiao" tvg-logo="http://149.56.98.189:25461/images/0297181.jpg" group-title="Filmes Ondemand",Sou Espiao
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Starman - O Homem das Estrelas" tvg-logo="http://149.56.98.189:25461/images/0088172.jpg" group-title="Filmes Ondemand",Starman - O Homem das Estrelas
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Supernova" tvg-logo="http://149.56.98.189:25461/images/0134983.jpg" group-title="Filmes Ondemand",Supernova
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tempos de Violencia" tvg-logo="http://149.56.98.189:25461/images/0433387.jpg" group-title="Filmes Ondemand",Tempos de Violencia
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tentaculos" tvg-logo="http://149.56.98.189:25461/images/0118956.jpg" group-title="Filmes Ondemand",Tentaculos
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Torturado" tvg-logo="http://149.56.98.189:25461/images/1029167.jpg" group-title="Filmes Ondemand",Torturado
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers O Ultimo Cavaleiro" tvg-logo="http://149.56.98.189:25461/images/3371366.jpg" group-title="Filmes Ondemand",Transformers O Ultimo Cavaleiro
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Triplo X" tvg-logo="http://149.56.98.189:25461/images/0295701.jpg" group-title="Filmes Ondemand",Triplo X
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Turistas" tvg-logo="http://149.56.98.189:25461/images/1243957.jpg" group-title="Filmes Ondemand",Turistas
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Um Ato de Liberdade" tvg-logo="http://149.56.98.189:25461/images/1034303.jpg" group-title="Filmes Ondemand",Um Ato de Liberdade
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vestida Para Matar" tvg-logo="http://149.56.98.189:25461/images/0080661.jpg" group-title="Filmes Ondemand",Vestida Para Matar
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viciado em Sexo" tvg-logo="http://149.56.98.189:25461/images/0253040.jpg" group-title="Filmes Ondemand",Viciado em Sexo
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vinganca" tvg-logo="http://149.56.98.189:25461/images/0100485.jpg" group-title="Filmes Ondemand",Vinganca
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Violacao de Privacidade" tvg-logo="http://149.56.98.189:25461/images/0108162.jpg" group-title="Filmes Ondemand",Violacao de Privacidade
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vou Te Pegar Otario" tvg-logo="http://149.56.98.189:25461/images/0095348.jpg" group-title="Filmes Ondemand",Vou Te Pegar Otario
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wasabi" tvg-logo="http://149.56.98.189:25461/images/0281364.jpg" group-title="Filmes Ondemand",Wasabi
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="XXX2 - Estado de Emergencia" tvg-logo="http://149.56.98.189:25461/images/not-found.jpg" group-title="Filmes Ondemand",XXX2 - Estado de Emergencia
+http://149.56.98.189:25461/movie/maylonmartinez/mam662145/1358.mp4
